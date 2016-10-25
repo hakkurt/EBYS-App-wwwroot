@@ -1,0 +1,3 @@
+username alanina yazilacak bilgi
+
+'OR 1 = 1;--
